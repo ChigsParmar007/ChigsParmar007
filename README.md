@@ -4,7 +4,7 @@
 <br/>
 <h3> Connect with me :-</h3>
 <p>
-<a href="chigsparmar07@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="chigsparmar07@gmail.com" height="30" height="30" /></a> &nbsp;
+<a href="https://chigsparmar07@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="chigsparmar07@gmail.com" height="30" height="30" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/chirag-parmar-aa0189250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chigs_parmar_07" height="30" height="30" /></a> &nbsp;
 <a href="https://stackoverflow.com/users/22382327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22382327" height="30" height="30" /></a> &nbsp;
 <a href="https://instagram.com/chigs_2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chigs_2207" height="30" height="30" /></a> &nbsp;
